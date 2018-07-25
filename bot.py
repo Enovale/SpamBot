@@ -4,6 +4,7 @@ from json import load
 import logging
 import re
 import time
+import os
 
 token = os.environ['TOKEN']
 
